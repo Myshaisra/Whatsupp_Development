@@ -9,3 +9,5 @@ Author: Mohamed IShack
 3. Last seen code
 
 4. Attachments (Image, Audio,video) code
+
+Hiding the Last seen
