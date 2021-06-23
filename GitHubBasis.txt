@@ -10,4 +10,8 @@ Author: Mohamed IShack
 
 4. Attachments (Image, Audio,video) code
 
-Hiding the Last seen
+5. Hiding the Last seen
+
+6. Adding the Video Call Feature.
+
+7.Adding the Audio Call Feature.
